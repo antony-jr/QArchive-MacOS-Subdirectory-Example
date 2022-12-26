@@ -1,0 +1,4 @@
+[submodule "QArchive"]
+	path = QArchive
+	url = https://github.com/antony-jr/QArchive
+	branch = macos-fix
